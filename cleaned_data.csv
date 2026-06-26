@@ -1,0 +1,9 @@
+Employee_ID,Department,Hours_Worked,Tasks_Completed,Performance_Score
+101,IT,40.0,12.0,85
+102,HR,38.0,8.0,72
+103,IT,39.0,15.0,90
+104,Finance,42.0,10.0,88
+105,HR,35.0,7.0,65
+106,IT,40.0,11.0,78
+107,Finance,39.0,9.0,92
+108,HR,39.0,10.285714285714286,70
