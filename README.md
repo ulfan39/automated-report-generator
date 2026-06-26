@@ -57,7 +57,7 @@ IT                         3       39.7       12.7             84.3
 
 ## Visualizations
 
-![Department Report]()
+![Department Report](department_report.png)
 
 ---
 
