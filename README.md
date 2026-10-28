@@ -23,7 +23,6 @@ This script automates the entire process:
 4. Produces a department summary report
 5. Exports results to CSV and generates visual charts
 
-**Result: ~40% reduction in manual reporting effort**
 
 ---
 
